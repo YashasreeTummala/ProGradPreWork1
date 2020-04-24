@@ -1,0 +1,28 @@
+body {
+    font-family: inherit;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    padding: 10px;
+}
+
+#mid-section h2 {
+    align-items: center;
+}
+
+.dot-link {
+    list-style: none;
+}
+
+.footer-last {
+    background: black;
+    color: white;
+    height: 30px;
+    display: flex;
+    justify-content: left;
+    align-items: flex-start;
+}
